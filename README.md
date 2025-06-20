@@ -24,7 +24,7 @@
 - 🔁 **Self-learning AI** — Models improve continuously via user feedback (zero human assistance - server only not open source)
 - 🌐 **IoT Integration** — Real-time weather, humidity, and GPS data help refine recommendations *(enabled in all models - server only not open source)*
 - 🧪 **Multi-mode Reasoning** — Includes Basic and Reasoning modes
-- 🗂 **Offline and Low-spec Support** — Optimized for low-power devices and mobile users (will add)
+  
 
 ---
 
