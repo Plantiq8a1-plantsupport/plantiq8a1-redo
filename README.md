@@ -64,3 +64,28 @@ Before running the project locally, kindly ensure all required dependencies are 
 
 ```bash
 pip install -r requirements.txt
+
+
+
+
+---
+
+## 🧑‍🤝‍🧑 Project Team – Edison Schools (2024–2025)
+
+- 👨‍💼 **Team Leader:** Lê Khánh Hưng  
+- 🧑‍🎓 **Group Representative:** Nguyễn Bình Minh  
+- 👨‍🔬 Nguyễn Hoàng Duy  
+- 👨‍🔬 Đỗ Xuân Bảo Ninh  
+
+> 🎓 Developed by students from **Edison Schools**, academic year **2024–2025**
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute the code for academic, personal, and non-commercial purposes.
+
+> ✅ Attribution is appreciated  
+> ❌ Commercial usage (e.g., selling plant consultations) is not allowed without prior written permission.
+
