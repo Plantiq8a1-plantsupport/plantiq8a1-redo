@@ -57,17 +57,6 @@ Try it live on our web app:
 > 🔒 No login required — privacy-first  
 
 ---
-
-## ⚙️ Setup Instructions
-
-Before running the project locally, kindly ensure all required dependencies are installed as specified in the `requirements.txt` file.
-
-```bash
-pip install -r requirements.txt
-
-
-
-
 ---
 
 ## 🧑‍🤝‍🧑 Project Team – Edison Schools (2024–2025)
@@ -88,4 +77,21 @@ You are free to use, modify, and distribute the code for academic, personal, and
 
 > ✅ Attribution is appreciated  
 > ❌ Commercial usage (e.g., selling plant consultations) is not allowed without prior written permission.
+
+
+---
+
+## ⚙️ Setup Instructions
+
+Before running the project locally, kindly ensure all required dependencies are installed as specified in the `requirements.txt` file.
+
+```bash
+pip install -r requirements.txt
+
+
+
+
+---
+
+
 
