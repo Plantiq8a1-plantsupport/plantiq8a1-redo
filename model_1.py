@@ -1,4 +1,5 @@
 import google.generativeai as genai
+from IoT import get_prompt  
 
 class PlantExpert:
     def __init__(self):
@@ -6,8 +7,8 @@ class PlantExpert:
         self.vai_tro = "Chuyên gia chăm sóc cây"
         self.luu_hoi_dap = []
 
-        genai.configure(api_key="PLANTIQ8A1")
-        self.model = genai.GenerativeModel(model_name="gemini-2.5-flash")
+        genai.configure(api_key="API_KEY") # Get API here: https://aistudio.google.com/
+        self.model = genai.GenerativeModel(model_name="GEMINI_MODEL") #Models: https://ai.google.dev/gemini-api/docs/models
 
         self.prefix = (
             "Bạn là một chuyên gia chăm sóc cây có tên là 'chuyên gia tư vấn thuộc plantiq8a1'. "
@@ -15,6 +16,7 @@ class PlantExpert:
             "Bạn luôn dùng ngôn ngữ dễ hiểu cho học sinh và người mới trồng cây. "
             "Bạn luôn trả lời thân thiện, có emoji 🌱, và dựa vào câu hỏi trước nếu cần. "
             "Ví dụ: nếu tôi hỏi về vàng lá, bạn phải chẩn đoán và hướng dẫn chi tiết. "
+            + get_prompt()  
         )
 
     def traloicauhoi(self, cauhoi):
@@ -37,4 +39,4 @@ class PlantExpert:
         return any(tu in cauhoi_lower for tu in tu_khoa)
 
 
-# Plantiq8a1 
+
