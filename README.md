@@ -48,7 +48,7 @@ We will release additional models such as `plantiq8a1-vision-lite` to the open-s
 
 ---
 
-## 🌐 Website & Demo
+## 🌐 Our Web
 
 Try it live on our web app:  
 👉 **[here](https://plantiq8a1.vercel.app)**  
