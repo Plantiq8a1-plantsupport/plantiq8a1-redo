@@ -54,7 +54,7 @@ Try it live on our web app:
 👉 **[https://plantiq8a1.vercel.app](https://plantiq8a1.vercel.app)**  
 
 > 🌍 Multilingual support included  
-> 🔒 No login required — privacy-first  
+> 🔒 Must login required — security first
 
 ---
 ---
