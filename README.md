@@ -51,10 +51,13 @@ We will release additional models such as `plantiq8a1-vision-lite` to the open-s
 ## 🌐 Website & Demo
 
 Try it live on our web app:  
-👉 **[https://plantiq8a1.vercel.app](https://plantiq8a1.vercel.app)**  
+👉 **[here](https://plantiq8a1.vercel.app)**  
 
 > 🌍 Multilingual support included  
 > 🔒 Must login required — security first
+
+## 🔒 Privacy (read it before use - You can need it!)
+👉 **[here](https://plantiq8a1.vercel.app/src/privacy-notlogin)**  
 
 ---
 ---
